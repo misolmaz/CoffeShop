@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <cofee id="0">
+    <urunadi>Cafe Latte</urunadi>
+    <fiyati>50</fiyati>
+  </cofee>
+  <cofee id="1">
+    <urunadi>Americano</urunadi>
+    <fiyati>50</fiyati>
+  </cofee>
+  <cofee id="2">
+    <urunadi>Espresso</urunadi>
+    <fiyati>60</fiyati>
+  </cofee>
+  <cofee id="3">
+    <urunadi>Filtre Kahve</urunadi>
+    <fiyati>40</fiyati>
+  </cofee>
+</products>
